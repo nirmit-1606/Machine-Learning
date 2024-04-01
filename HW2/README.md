@@ -4,6 +4,8 @@ This homework is about sentiment classification, using (averaged) perceptron (an
 Prof. Liang Huang provided a very simple naive perceptron baseline. The point of this homework is more about learning 
 from his code and extending it, rather than implementing by oneself from scratch.
 
+[Complete HW details](https://classes.engr.oregonstate.edu/eecs/fall2023/ai534-400/unit2/hw2/hw2.pdf)
+
 ## Classification
 
 In classification, you train a machine learning model to classify an input object (could be an image, 
