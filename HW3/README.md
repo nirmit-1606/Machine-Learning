@@ -1,6 +1,12 @@
 # HW3: Kaggle Competition for Housing Price Prediction
 
-In this HW, I competed in an active Kaggle competition, House Prices - Advanced Regression Techniques.
+In this HW, I competed in an active Kaggle competition, House Prices - Advanced Regression Techniques.  
+
+The objectives of this HW include:  
+
+- understanding and using existing tools for linear and polynomial regression
+- understanding and using existing tools for regularized linear regression
+- (pre-)processing (mixed) categorical and numerical features.
 
 [Complete HW details](https://classes.engr.oregonstate.edu/eecs/fall2023/ai534-400/unit3/hw3/hw3.pdf)
 
