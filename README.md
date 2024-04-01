@@ -7,3 +7,5 @@ This course surveys the most important algorithms and techniques in the field of
 ## Course Instructor
 
 [Liang Huang](https://web.engr.oregonstate.edu/~huanlian/) is a Professor of Computer Science at Oregon State University. His research areas are natural language processing and computational biology. During the COVID years, he applied natural language algorithms to RNA folding and RNA design to help fight the RNA virus with RNA vaccine, resulting in landmark papers in PNAS and Nature. He also enjoys teaching and has won a teaching award.
+
+The README contents in this repository are taken from the Course contents provided by the Professor
